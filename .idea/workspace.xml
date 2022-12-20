@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05f5d79d-f453-4ac7-9e88-4059459c01c9" name="Default Changelist" comment="" />
+    <list default="true" id="05f5d79d-f453-4ac7-9e88-4059459c01c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ppmtool/config/HibernateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2GpkdKVA5yj9YM4adAPN4ztRZ5m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/ppmtool/services" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -44,6 +58,9 @@
       <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\repository" />
       <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\exceptions" />
       <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.ppmtool.config" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\resources" />
@@ -89,22 +106,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="379" width="416" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671510599332" />
-    <state width="1877" height="641" key="GridCell.Tab.0.bottom" timestamp="1671511629959">
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom" timestamp="1671513262893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="641" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
-    <state width="1877" height="641" key="GridCell.Tab.0.center" timestamp="1671511629959">
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671513262893" />
+    <state width="1877" height="341" key="GridCell.Tab.0.center" timestamp="1671513262893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="641" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
-    <state width="1877" height="641" key="GridCell.Tab.0.left" timestamp="1671511629959">
+    <state width="1877" height="341" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671513262893" />
+    <state width="1877" height="341" key="GridCell.Tab.0.left" timestamp="1671513262893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="641" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
-    <state width="1877" height="641" key="GridCell.Tab.0.right" timestamp="1671511629959">
+    <state width="1877" height="341" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671513262893" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right" timestamp="1671513262893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="641" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671513262893" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1671510156608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
