@@ -1,0 +1,53 @@
+spring:
+  application:
+    name: ppm-tool
+
+  datasource:
+    username: postgres
+    password:
+    url: jdbc:postgresql://localhost:5432/postgres
+    # jdbc:postgresql://host:port/database
+    jpa:
+      hibernate:
+        ddl-auto: update
+
+  jpa:
+    properties:
+      hibernate:
+        temp:
+          use_jdbc_metadata_defaults: false
+
+    show-sql: true
+
+    database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+
+
+server:
+  port: 8081
+
+logging:
+  level:
+    org:
+      springframework: WARN
+      hibernate: WARN
+  com:
+    springsecurity:
+      demo: DEBUG
+
+management:
+  endpoint:
+    health:
+      show-details: always
+
+# swagger-ui custom path
+springdoc:
+  version: '@springdoc.version@'
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    tagsSorter: alpha
+    use-root-path: true
+  cache:
+    disabled: true

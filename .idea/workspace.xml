@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05f5d79d-f453-4ac7-9e88-4059459c01c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GpkdKVA5yj9YM4adAPN4ztRZ5m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/ppmtool/services" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.ppmtool.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\services" />
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\security" />
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\repository" />
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\exceptions" />
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\java\com\example\ppmtool\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\main\resources" />
+      <recent name="C:\Users\Chris\Documents\Github\ppm-core\src\test\java\com\example\ppmtool" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PPM - Start" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.ppmtool.ApplicationStart" />
+      <module name="ppm-core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05f5d79d-f453-4ac7-9e88-4059459c01c9" name="Default Changelist" comment="" />
+      <created>1667092998048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667092998048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671511227645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511227645" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1671510719173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671510719173" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1671511216042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511216042" />
+    <state x="756" y="379" width="416" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1671510599332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="416" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671510599332" />
+    <state width="1877" height="641" key="GridCell.Tab.0.bottom" timestamp="1671511629959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="641" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
+    <state width="1877" height="641" key="GridCell.Tab.0.center" timestamp="1671511629959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="641" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
+    <state width="1877" height="641" key="GridCell.Tab.0.left" timestamp="1671511629959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="641" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
+    <state width="1877" height="641" key="GridCell.Tab.0.right" timestamp="1671511629959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="641" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671511629959" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1671510156608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1671510156608" />
+    <state x="-1196" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1671415674711">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1196" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1671415674711" />
+  </component>
+</project>
